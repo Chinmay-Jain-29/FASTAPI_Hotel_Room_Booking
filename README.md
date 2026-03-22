@@ -12,14 +12,23 @@ This project demonstrates real-world backend concepts like **auto room allocatio
 ## 🚀 Features
 
 ✨ Auto Room Allocation (System assigns room number)
+
 ✨ Booking, Update, Cancel & Checkout Workflow
+
 ✨ Room Categories (Non-AC, AC, Deluxe)
+
 ✨ Admin Module (Booking history & summary)
+
 ✨ Search, Sort & Filter functionality
+
 ✨ Pagination & Combined Browse API
+
 ✨ Room Catalog (Live availability status)
+
 ✨ Account tracking (Revenue + records)
+
 ✨ Strong input validation using Pydantic
+
 ✨ Proper HTTP status codes
 
 ---
